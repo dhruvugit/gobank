@@ -31,9 +31,8 @@ Follow these steps to set up and run the application on your local machine.
    `cd gobank`
 
 2. **Build the Application**
-   Use the go build command to build the executable:
+   Use the go build command to build the executable and then run it:
+   ```bash
    `go build -o gobank`
-   Run the Application
-   Execute the binary file to start the application:
    `./gobank`
 
